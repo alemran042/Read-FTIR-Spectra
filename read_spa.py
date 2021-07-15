@@ -77,6 +77,7 @@ plt.xlim(1000., 2400)
 #plt.ylim(.5, 1.)
 plt.xlabel('Wavelength [nm]')
 plt.ylabel('Reflectance')
+plt.savefig('Wave number vs Reflectance_raw.png')
 #plt.show()
 
 
@@ -95,7 +96,8 @@ plt.xlim(1., 2.4)
 #plt.ylim(.5, 1.)
 plt.xlabel('Wavelength [µm]')
 plt.ylabel('Reflectance')
-plt.show()
+plt.savefig('Wave number vs Reflectance_normalized.png')
+#plt.show()
 
 
 
