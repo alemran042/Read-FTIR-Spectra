@@ -1,2 +1,2 @@
 # Read FTIR spectra
-Read FTIR spectral file (OMNIC)
+Python code to read FTIR spectral file (OMNIC)
