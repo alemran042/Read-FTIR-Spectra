@@ -1,2 +1,2 @@
 # GithubTest
-Test_01
+Read FTIR spectral file
