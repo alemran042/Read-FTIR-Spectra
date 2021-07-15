@@ -1,2 +1,2 @@
 # GithubTest
-Read FTIR spectral file
+Read FTIR spectral file (OMNIC)
