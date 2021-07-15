@@ -98,17 +98,3 @@ plt.xlabel('Wavelength [µm]')
 plt.ylabel('Reflectance')
 plt.savefig('Wave number vs Reflectance_normalized.png')
 #plt.show()
-
-
-
-"""
-basepath = '.'
-paths = [str(x) for x in list(pathlib.Path(basepath).rglob('*.spa'))]
-#print('Files detected: {}'.format(len(paths)))
-
-for path in paths:
-  spectra_tmp, wavelength_tmp, title_tmp = read_spa(path)
-
-
-print()
-"""
